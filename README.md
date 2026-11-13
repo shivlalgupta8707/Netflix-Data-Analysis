@@ -127,6 +127,8 @@ Netflix-Data-Analysis/
 ├── README.md
 └── requirements.txt
 
+'''
+
 ## 🚀 How to Run the Project
 
 1. Clone or download this repository.
