@@ -126,8 +126,7 @@ Netflix-Data-Analysis/
 ├── Netflix_Data_Analysis.ipynb
 ├── README.md
 └── requirements.txt
-
-'''
+```
 
 ## 🚀 How to Run the Project
 
